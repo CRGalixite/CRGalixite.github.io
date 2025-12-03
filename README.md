@@ -1,1 +1,0 @@
-# CRGalixite.github.io
