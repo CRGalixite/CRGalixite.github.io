@@ -2,7 +2,7 @@
 
 This is my home page! My name is Eberardo Aristeo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is in Computer Science.
 
-My GitHub page is http://github.com/CRGalixite.
+My GitHub page is [http://github.com/CRGalixite](http://github.com/CRGalixite).
 
 
 ## Computer Science Projects
